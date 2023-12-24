@@ -1,0 +1,22 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cart-card {
+  width: 18rem;
+  height: 35rem;
+  margin: 10px;
+}
+
+.buttononhome {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  margin: 10px;
+
+}
+#homebutton, cartbutton{
+  margin: 5px;
+}
